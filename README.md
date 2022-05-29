@@ -1,7 +1,7 @@
 # Measurement-of-Various-Message-Transfer-Protocols
 Performance Test of Message Transfer Protocols
 <br>
-Check this thesis (Korean) > [poster thesis.pdf](https://github.com/nexus-bit/Measurement-of-Various-Message-Transfer-Protocols/files/7655344/poster.thesis.pdf)
+Check this thesis (Korean) > [poster thesis](https://github.com/passionleader/Message-Queue-Performance-test/files/8792619/P-39.pdf)
 
 <br>
 
