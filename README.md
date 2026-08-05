@@ -26,6 +26,8 @@ Check this thesis (Korean) > [[Abstract]](https://github.com/passionleader/Messa
 ### Used Databases
 * MongoDB
 
+
+
 ---
 ### Process of Message Transfer 
 ![image](https://user-images.githubusercontent.com/55945939/144702140-192338a0-24ad-49ad-818e-9dc984491651.png)
@@ -33,8 +35,12 @@ Check this thesis (Korean) > [[Abstract]](https://github.com/passionleader/Messa
 ### Measuring Time
 ![image](https://user-images.githubusercontent.com/55945939/144702156-e52d2466-3435-47c3-ad80-33fa9c1c30d4.png)
 
----
 
+---
+### Realted Poster what I submit: 
+<img width="1591" height="2151" alt="image" src="https://github.com/user-attachments/assets/94b5862c-1db3-40c1-a080-03c0934a5818" />
+
+---
 ## acknowledgment
 #### This study has been conducted with the support of the Korea Institute of Industrial Technology, KITECH
 
